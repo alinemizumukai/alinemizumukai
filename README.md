@@ -8,7 +8,7 @@ Passionate about travelling, new experiences and dogs. I am always seeking oppor
 
 ### Connect with me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alinemizumukai)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinemizumukai)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-0A66C2?style=for-the-badge)](https://web.dio.me/users/alinemizumukai)
 
 ### GitHub Stats
